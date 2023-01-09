@@ -1,0 +1,5 @@
+Steps for SINGLETON pattern;
+
+ 1) make constructor private
+ 2) define a private static type reference variable that will hold the obj.
+ 3) create public static method that will check if obj is created or not, if not will create and return else directly returns.\

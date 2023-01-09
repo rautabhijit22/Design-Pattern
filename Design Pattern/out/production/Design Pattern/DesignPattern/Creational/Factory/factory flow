@@ -1,0 +1,5 @@
+factory flow;
+
+1. write down all components. create one level of abstraction
+2. create particular platforms factory classes and abstracted to UIFactory
+3. create factoryFactory to return factory objects
